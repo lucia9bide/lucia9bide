@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucia9bide
-- 👀 I’m interested in videogames, comics, manga n ...
+- 👀 I’m interested in videogames, comics, manga, anime n action movies
 - 🌱 I’m currently learning python n javascript :p
 - 📫 How to reach me https://x.com/luciabide or here!
 - 😄 Pronouns: he/she
