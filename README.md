@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucia9bide
+- 👋 Hi, I’m Lucia
 - 👀 I’m interested in videogames, comics, manga, anime n action movies
 - 🌱 I’m currently learning python n javascript :p
 - 📫 How to reach me https://x.com/luciabide or here!
