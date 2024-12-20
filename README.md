@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lucia
 - 👀 I’m interested in videogames, comics, manga, anime n action movies
-- 🌱 I’m currently learning python n javascript :p
+- 🌱 I’m currently learning python, java n javascript :p
 - 📫 How to reach me https://x.com/luciabide or here!
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/he
 - ⚡ Fun fact: im from Argentina n i love cats
 
 <!---
