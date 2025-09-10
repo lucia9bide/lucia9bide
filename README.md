@@ -1,3 +1,4 @@
+`#0969DA`
 - 👋 Hi, I’m Lucia
 - 👀 I’m interested in videogames, comics, manga, anime n action movies
 - 🌱 I’m currently learning python, java n javascript :p
