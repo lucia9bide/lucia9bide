@@ -14,10 +14,10 @@
 
 <h2>-ˏˋ⋆ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ⋆ˊˎ-</h2> 
 <p>
-  <a text href="www.linkedin.com/in/lucia-bide-65b2bb325" target="_blank">
+  <a text href="www.linkedin.com/in/lucia-bide-65b2bb325">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/luciabide" target="_blank">
+  <a href="https://x.com/luciabide"">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
