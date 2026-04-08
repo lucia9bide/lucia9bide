@@ -9,8 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## -ˏˋ⋆ ꜱᴛᴀᴛꜱ ⋆ˊˎ-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lucia9bide&show_icons=true)
+<!---## -ˏˋ⋆ ꜱᴛᴀᴛꜱ ⋆ˊˎ-
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lucia9bide&show_icons=true)--->
 
 <h2>-ˏˋ⋆ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ⋆ˊˎ-</h2> 
 <p>
