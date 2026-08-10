@@ -8,24 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-<!---## -ˏˋ⋆ ꜱᴛᴀᴛꜱ ⋆ˊˎ-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lucia9bide&show_icons=true)--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2>-ˏˋ⋆ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ⋆ˊˎ-</h2> 
-<p>
-  <a href="https://www.linkedin.com/in/lucia9bide" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/luciabide" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
-<!---
-lucia9bide/lucia9bide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-luciabide9@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
