@@ -1,6 +1,6 @@
 <h1 align="center">.・。.・゜✭・ ʜᴇʟʟᴏ! ɪ'ᴍ ʟᴜᴄɪᴀ ʙɪᴅᴇ ・✫・゜・。.</h1>
 <h2>-ˏˋ⋆ ᴀʙᴏᴜᴛ ᴍᴇ ⋆ˊˎ-</h2>
-╰┈➤ I'm 20 years old and I'm from Rosario, Argentina.<br>
+╰┈➤ I'm 21 years old and I'm from Rosario, Argentina.<br>
 ╰┈➤ I'm a programming student.<br>
 
 ## -ˏˋ⋆ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ⋆ˊˎ-
